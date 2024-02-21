@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Yeung</h1>
-<h3 align="center">Im interested in web development and data analytics</h3>
+<h3 align="center">I'm interested in web development and data analytics</h3>
 
 - 🌱 I’m currently learning **Java, SQL**
 
